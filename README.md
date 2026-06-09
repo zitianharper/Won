@@ -82,6 +82,38 @@ WON allows users to plan and manage trips, track travel details, view destinatio
 * Docker Compose
 
 ---
+---
+
+## Individual Contributions
+
+### Zitian Harper
+
+Primary responsibilities:
+
+* JWT authentication
+* User registration and login functionality
+* Password hashing and verification
+* Protected API endpoints
+* Authentication middleware configuration
+* User account management workflows
+
+Additional contributions:
+
+* API development and integration
+* Testing and debugging
+* Pull request reviews
+* Git workflow and branch management
+
+Through this work, I gained hands-on experience with:
+
+* ASP.NET Core authentication and security
+* REST API development
+* JWT token generation and validation
+* Collaborative Agile development
+* Peer review processes
+* Team-based software delivery
+
+---
 
 ## Project Architecture
 
